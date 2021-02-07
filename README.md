@@ -1,3 +1,5 @@
+
+
 # GlobalAIHubPythonCourse
 
 This is a course home work and project assignment for the course Introduction to Python Programming 
