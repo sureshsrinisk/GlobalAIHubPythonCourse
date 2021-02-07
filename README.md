@@ -1,4 +1,4 @@
-
+https://github.com/globalaihub/introduction-to-machine-learning/raw/main/Decision%20Trees/img/logo.png
 
 # GlobalAIHubPythonCourse
 
